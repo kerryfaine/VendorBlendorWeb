@@ -6,8 +6,4 @@ The purpose of the Vendor Blendor web portal is to provide useful tools to the f
 
 This project will provide the web portal for these group to interact with.  This includes the styles, client side and server side code components. 
 
-For questions / comments / support contact me at: 
-Kerry Faine 
-kerry.faine@outlook.com
-Application Architect / Developer
-Faine Enterprises 
+For questions / comments / support contact me at: Kerry Faine [kerry.faine@outlook.com] - Application Architect and Developer @ Faine Enterprises 
